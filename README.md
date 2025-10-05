@@ -18,6 +18,7 @@ Key pair for SSH access
 #Steps to Deploy:
 Clone the Repository
 git clone https://github.com/Emstev/Terraform_module.git
+
 cd terraform-module
 
 Initialize Terraform
