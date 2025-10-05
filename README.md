@@ -31,7 +31,7 @@ The setup uses Infrastructure as Code (IaC) to automate the deployment process.
 
    ```bash
    git clone https://github.com/Emstev/Terraform_module.git
-   cd terraform-module
+   cd terraform_module
    ```
 
 2. **Initialize Terraform**
